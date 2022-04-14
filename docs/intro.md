@@ -52,9 +52,9 @@ Polygon is a proof-of-work (PoW) blockchain which grants the safety of exchanges
 
 To put Polygon’s carbon footprint in perspective, here are some equivalents made available by the platform for how much emission the blockchain creates yearly:
 
-:::info
+:::note source
 
-**Source:** https://blog.polygon.technology/polygon-the-eco-friendly-blockchain-scaling-ethereum-bbdd52201ad/ 
+https://blog.polygon.technology/polygon-the-eco-friendly-blockchain-scaling-ethereum-bbdd52201ad/ 
 
 :::
 

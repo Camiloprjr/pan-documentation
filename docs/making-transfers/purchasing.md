@@ -1,8 +1,7 @@
 ---
 title: Purchasing PAN tokens
+sidebar_position: 1
 ---
-
-# Methods
 
 Players can buy, sell, and trade items by using the stablecoin PAN. It can be acquired through the following methods:
 
