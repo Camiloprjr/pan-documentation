@@ -1,0 +1,27 @@
+{
+  "unversionedId": "making-transfers/fees",
+  "id": "making-transfers/fees",
+  "title": "Transaction fees",
+  "description": "MATIC has a fee for each transaction, but at PAN-X you can choose how much you want to pay for it depending on how soon you want to receive your purchase. This has to do with how much gas is used to fulfill that transaction: the faster, the more expensive and the more energy-demanding.",
+  "source": "@site/docs/making-transfers/fees.md",
+  "sourceDirName": "making-transfers",
+  "slug": "/making-transfers/fees",
+  "permalink": "/making-transfers/fees",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/making-transfers/fees.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Transaction fees",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trading with other users",
+    "permalink": "/making-transfers/trading"
+  },
+  "next": {
+    "title": "Redeeming and transferring PAN tokens",
+    "permalink": "/making-transfers/redeemandtransfer"
+  }
+}

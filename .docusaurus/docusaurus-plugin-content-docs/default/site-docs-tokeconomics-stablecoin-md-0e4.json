@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tokeconomics/stablecoin",
+  "id": "tokeconomics/stablecoin",
+  "title": "Stablecoin",
+  "description": "PAN-X works with a token that is backed by the stablecoin emitted by the Colb In  project. The StableColb USD (SCB) is a claimable stablecoin strictly pegged 1:1 to the U.S. Dollar that is collateralized, issued in accordance with Swiss regulations, and transparently verified by third-party attestations.",
+  "source": "@site/docs/tokeconomics/stablecoin.md",
+  "sourceDirName": "tokeconomics",
+  "slug": "/tokeconomics/stablecoin",
+  "permalink": "/tokeconomics/stablecoin",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tokeconomics/stablecoin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Stablecoin",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The NFT Market",
+    "permalink": "/tokeconomics/nft-market"
+  },
+  "next": {
+    "title": "Token Wrapping Mechanism",
+    "permalink": "/tokeconomics/wrapping"
+  }
+}

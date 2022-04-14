@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tokeconomics/nft-market",
+  "id": "tokeconomics/nft-market",
+  "title": "The NFT Market",
+  "description": "Non-fungible tokens or NFTs are unique digital assets that can be photos, GIFs, audio, video, or any other digital item which can be secured on the blockchain and bought and sold through marketplace platforms such as OpenSea.",
+  "source": "@site/docs/tokeconomics/nft-market.md",
+  "sourceDirName": "tokeconomics",
+  "slug": "/tokeconomics/nft-market",
+  "permalink": "/tokeconomics/nft-market",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tokeconomics/nft-market.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "The NFT Market",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Marketplace",
+    "permalink": "/making-transfers/marketplace"
+  },
+  "next": {
+    "title": "Stablecoin",
+    "permalink": "/tokeconomics/stablecoin"
+  }
+}

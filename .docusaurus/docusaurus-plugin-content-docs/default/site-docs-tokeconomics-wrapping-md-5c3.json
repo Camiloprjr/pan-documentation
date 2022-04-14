@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tokeconomics/wrapping",
+  "id": "tokeconomics/wrapping",
+  "title": "Token Wrapping Mechanism",
+  "description": "The wrap function is a method used to convert PAN tokens into another token and vice-versa. To mint PAN tokens, the platform must burn SCB tokens, whereas burning PAN tokens leads the system to mint StableColb (SCB).",
+  "source": "@site/docs/tokeconomics/wrapping.md",
+  "sourceDirName": "tokeconomics",
+  "slug": "/tokeconomics/wrapping",
+  "permalink": "/tokeconomics/wrapping",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tokeconomics/wrapping.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Token Wrapping Mechanism",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stablecoin",
+    "permalink": "/tokeconomics/stablecoin"
+  },
+  "next": {
+    "title": "NFT Supply Governance Price Stability Mechanisms",
+    "permalink": "/tokeconomics/supply-governance"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tearms",
+  "id": "tearms",
+  "title": "Tearms of Use",
+  "description": "Preencher com os termos de uso do projeto.",
+  "source": "@site/docs/tearms.md",
+  "sourceDirName": ".",
+  "slug": "/tearms",
+  "permalink": "/tearms",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tearms.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Tearms of Use",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Roadmap",
+    "permalink": "/roadmap"
+  }
+}

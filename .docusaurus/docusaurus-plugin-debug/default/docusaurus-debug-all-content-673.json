@@ -1,0 +1,466 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/",
+          "tagsPath": "/tags",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Camilo\\Documents\\GitHub\\pan-documentation\\sidebars.js",
+          "contentPath": "C:\\Users\\Camilo\\Documents\\GitHub\\pan-documentation\\docs",
+          "contentPathLocalized": "C:\\Users\\Camilo\\Documents\\GitHub\\pan-documentation\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "PAN-X",
+              "description": "Official PAN-X Whitepaper",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "PAN-X",
+                "sidebar_position": 1,
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Purchasing PAN tokens",
+                "permalink": "/making-transfers/purchasing"
+              }
+            },
+            {
+              "unversionedId": "making-transfers/fees",
+              "id": "making-transfers/fees",
+              "title": "Transaction fees",
+              "description": "MATIC has a fee for each transaction, but at PAN-X you can choose how much you want to pay for it depending on how soon you want to receive your purchase. This has to do with how much gas is used to fulfill that transaction: the faster, the more expensive and the more energy-demanding.",
+              "source": "@site/docs/making-transfers/fees.md",
+              "sourceDirName": "making-transfers",
+              "slug": "/making-transfers/fees",
+              "permalink": "/making-transfers/fees",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/making-transfers/fees.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Transaction fees",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Trading with other users",
+                "permalink": "/making-transfers/trading"
+              },
+              "next": {
+                "title": "Redeeming and transferring PAN tokens",
+                "permalink": "/making-transfers/redeemandtransfer"
+              }
+            },
+            {
+              "unversionedId": "making-transfers/marketplace",
+              "id": "making-transfers/marketplace",
+              "title": "Marketplace",
+              "description": "PAN-X’s marketplace is a centralized peer-to-peer (P2P) network that connects NFT owners, sellers, and consumers in a transparent and direct way, without the need for intermediaries.",
+              "source": "@site/docs/making-transfers/marketplace.md",
+              "sourceDirName": "making-transfers",
+              "slug": "/making-transfers/marketplace",
+              "permalink": "/making-transfers/marketplace",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/making-transfers/marketplace.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Marketplace",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Redeeming and transferring PAN tokens",
+                "permalink": "/making-transfers/redeemandtransfer"
+              },
+              "next": {
+                "title": "The NFT Market",
+                "permalink": "/tokeconomics/nft-market"
+              }
+            },
+            {
+              "unversionedId": "making-transfers/purchasing",
+              "id": "making-transfers/purchasing",
+              "title": "Purchasing PAN tokens",
+              "description": "Players can buy, sell, and trade items by using the stablecoin PAN. It can be acquired through the following methods:",
+              "source": "@site/docs/making-transfers/purchasing.md",
+              "sourceDirName": "making-transfers",
+              "slug": "/making-transfers/purchasing",
+              "permalink": "/making-transfers/purchasing",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/making-transfers/purchasing.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Purchasing PAN tokens",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PAN-X",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Trading with other users",
+                "permalink": "/making-transfers/trading"
+              }
+            },
+            {
+              "unversionedId": "making-transfers/redeemandtransfer",
+              "id": "making-transfers/redeemandtransfer",
+              "title": "Redeeming and transferring PAN tokens",
+              "description": "You can redeem your PAN tokens by exchanging them for your preferred fiat currency. For that, you must fill a form informing:",
+              "source": "@site/docs/making-transfers/redeemandtransfer.md",
+              "sourceDirName": "making-transfers",
+              "slug": "/making-transfers/redeemandtransfer",
+              "permalink": "/making-transfers/redeemandtransfer",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/making-transfers/redeemandtransfer.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "Redeeming and transferring PAN tokens",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Transaction fees",
+                "permalink": "/making-transfers/fees"
+              },
+              "next": {
+                "title": "Marketplace",
+                "permalink": "/making-transfers/marketplace"
+              }
+            },
+            {
+              "unversionedId": "making-transfers/trading",
+              "id": "making-transfers/trading",
+              "title": "Trading with other users",
+              "description": "PAN-X was designed to work not simply as a marketplace, but as a social platform where you can interact with friends and game companies. With the in-built chat, you can negotiate transactions of in-game content and collectibles acquired via PAN-X without the need to share your personal contact information with other users.",
+              "source": "@site/docs/making-transfers/trading.md",
+              "sourceDirName": "making-transfers",
+              "slug": "/making-transfers/trading",
+              "permalink": "/making-transfers/trading",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/making-transfers/trading.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Trading with other users",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Purchasing PAN tokens",
+                "permalink": "/making-transfers/purchasing"
+              },
+              "next": {
+                "title": "Transaction fees",
+                "permalink": "/making-transfers/fees"
+              }
+            },
+            {
+              "unversionedId": "roadmap",
+              "id": "roadmap",
+              "title": "Roadmap",
+              "description": "Preencher com o roadmap do projeto.",
+              "source": "@site/docs/roadmap.md",
+              "sourceDirName": ".",
+              "slug": "/roadmap",
+              "permalink": "/roadmap",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/roadmap.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "Roadmap",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Team",
+                "permalink": "/team"
+              },
+              "next": {
+                "title": "Tearms of Use",
+                "permalink": "/tearms"
+              }
+            },
+            {
+              "unversionedId": "team",
+              "id": "team",
+              "title": "The Team",
+              "description": "Preencher com a bio dos membros da empresa.",
+              "source": "@site/docs/team.md",
+              "sourceDirName": ".",
+              "slug": "/team",
+              "permalink": "/team",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/team.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "The Team",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NFT Supply Governance Price Stability Mechanisms",
+                "permalink": "/tokeconomics/supply-governance"
+              },
+              "next": {
+                "title": "Roadmap",
+                "permalink": "/roadmap"
+              }
+            },
+            {
+              "unversionedId": "tearms",
+              "id": "tearms",
+              "title": "Tearms of Use",
+              "description": "Preencher com os termos de uso do projeto.",
+              "source": "@site/docs/tearms.md",
+              "sourceDirName": ".",
+              "slug": "/tearms",
+              "permalink": "/tearms",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tearms.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "title": "Tearms of Use",
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Roadmap",
+                "permalink": "/roadmap"
+              }
+            },
+            {
+              "unversionedId": "tokeconomics/nft-market",
+              "id": "tokeconomics/nft-market",
+              "title": "The NFT Market",
+              "description": "Non-fungible tokens or NFTs are unique digital assets that can be photos, GIFs, audio, video, or any other digital item which can be secured on the blockchain and bought and sold through marketplace platforms such as OpenSea.",
+              "source": "@site/docs/tokeconomics/nft-market.md",
+              "sourceDirName": "tokeconomics",
+              "slug": "/tokeconomics/nft-market",
+              "permalink": "/tokeconomics/nft-market",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tokeconomics/nft-market.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "The NFT Market",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Marketplace",
+                "permalink": "/making-transfers/marketplace"
+              },
+              "next": {
+                "title": "Stablecoin",
+                "permalink": "/tokeconomics/stablecoin"
+              }
+            },
+            {
+              "unversionedId": "tokeconomics/stablecoin",
+              "id": "tokeconomics/stablecoin",
+              "title": "Stablecoin",
+              "description": "PAN-X works with a token that is backed by the stablecoin emitted by the Colb In  project. The StableColb USD (SCB) is a claimable stablecoin strictly pegged 1:1 to the U.S. Dollar that is collateralized, issued in accordance with Swiss regulations, and transparently verified by third-party attestations.",
+              "source": "@site/docs/tokeconomics/stablecoin.md",
+              "sourceDirName": "tokeconomics",
+              "slug": "/tokeconomics/stablecoin",
+              "permalink": "/tokeconomics/stablecoin",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tokeconomics/stablecoin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Stablecoin",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The NFT Market",
+                "permalink": "/tokeconomics/nft-market"
+              },
+              "next": {
+                "title": "Token Wrapping Mechanism",
+                "permalink": "/tokeconomics/wrapping"
+              }
+            },
+            {
+              "unversionedId": "tokeconomics/supply-governance",
+              "id": "tokeconomics/supply-governance",
+              "title": "NFT Supply Governance Price Stability Mechanisms",
+              "description": "In order to commercialize their items on the PAN-X platform, game companies must develop an NFT collection before submitting it. The NFT collection can include images, in-game items or skins.",
+              "source": "@site/docs/tokeconomics/supply-governance.md",
+              "sourceDirName": "tokeconomics",
+              "slug": "/tokeconomics/supply-governance",
+              "permalink": "/tokeconomics/supply-governance",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tokeconomics/supply-governance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "NFT Supply Governance Price Stability Mechanisms",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Token Wrapping Mechanism",
+                "permalink": "/tokeconomics/wrapping"
+              },
+              "next": {
+                "title": "The Team",
+                "permalink": "/team"
+              }
+            },
+            {
+              "unversionedId": "tokeconomics/wrapping",
+              "id": "tokeconomics/wrapping",
+              "title": "Token Wrapping Mechanism",
+              "description": "The wrap function is a method used to convert PAN tokens into another token and vice-versa. To mint PAN tokens, the platform must burn SCB tokens, whereas burning PAN tokens leads the system to mint StableColb (SCB).",
+              "source": "@site/docs/tokeconomics/wrapping.md",
+              "sourceDirName": "tokeconomics",
+              "slug": "/tokeconomics/wrapping",
+              "permalink": "/tokeconomics/wrapping",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tokeconomics/wrapping.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Token Wrapping Mechanism",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Stablecoin",
+                "permalink": "/tokeconomics/stablecoin"
+              },
+              "next": {
+                "title": "NFT Supply Governance Price Stability Mechanisms",
+                "permalink": "/tokeconomics/supply-governance"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Making transactions",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "making-transfers/purchasing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "making-transfers/trading"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "making-transfers/fees"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "making-transfers/redeemandtransfer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "making-transfers/marketplace"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Tokenomics and NFTs",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tokeconomics/nft-market"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tokeconomics/stablecoin"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tokeconomics/wrapping"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tokeconomics/supply-governance"
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "team"
+              },
+              {
+                "type": "doc",
+                "id": "roadmap"
+              },
+              {
+                "type": "doc",
+                "id": "tearms"
+              }
+            ]
+          },
+          "mainDocId": "intro",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null,
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "frontMatter": {}
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {}
+}

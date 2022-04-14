@@ -1,0 +1,27 @@
+{
+  "unversionedId": "making-transfers/marketplace",
+  "id": "making-transfers/marketplace",
+  "title": "Marketplace",
+  "description": "PAN-X’s marketplace is a centralized peer-to-peer (P2P) network that connects NFT owners, sellers, and consumers in a transparent and direct way, without the need for intermediaries.",
+  "source": "@site/docs/making-transfers/marketplace.md",
+  "sourceDirName": "making-transfers",
+  "slug": "/making-transfers/marketplace",
+  "permalink": "/making-transfers/marketplace",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/making-transfers/marketplace.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Marketplace",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Redeeming and transferring PAN tokens",
+    "permalink": "/making-transfers/redeemandtransfer"
+  },
+  "next": {
+    "title": "The NFT Market",
+    "permalink": "/tokeconomics/nft-market"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "making-transfers/trading",
+  "id": "making-transfers/trading",
+  "title": "Trading with other users",
+  "description": "PAN-X was designed to work not simply as a marketplace, but as a social platform where you can interact with friends and game companies. With the in-built chat, you can negotiate transactions of in-game content and collectibles acquired via PAN-X without the need to share your personal contact information with other users.",
+  "source": "@site/docs/making-transfers/trading.md",
+  "sourceDirName": "making-transfers",
+  "slug": "/making-transfers/trading",
+  "permalink": "/making-transfers/trading",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/making-transfers/trading.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Trading with other users",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Purchasing PAN tokens",
+    "permalink": "/making-transfers/purchasing"
+  },
+  "next": {
+    "title": "Transaction fees",
+    "permalink": "/making-transfers/fees"
+  }
+}

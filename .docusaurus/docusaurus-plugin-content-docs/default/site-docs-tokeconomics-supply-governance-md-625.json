@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tokeconomics/supply-governance",
+  "id": "tokeconomics/supply-governance",
+  "title": "NFT Supply Governance Price Stability Mechanisms",
+  "description": "In order to commercialize their items on the PAN-X platform, game companies must develop an NFT collection before submitting it. The NFT collection can include images, in-game items or skins.",
+  "source": "@site/docs/tokeconomics/supply-governance.md",
+  "sourceDirName": "tokeconomics",
+  "slug": "/tokeconomics/supply-governance",
+  "permalink": "/tokeconomics/supply-governance",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tokeconomics/supply-governance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "NFT Supply Governance Price Stability Mechanisms",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token Wrapping Mechanism",
+    "permalink": "/tokeconomics/wrapping"
+  },
+  "next": {
+    "title": "The Team",
+    "permalink": "/team"
+  }
+}

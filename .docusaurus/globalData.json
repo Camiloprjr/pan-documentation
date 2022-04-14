@@ -1,0 +1,92 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "making-transfers/fees",
+              "path": "/making-transfers/fees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "making-transfers/marketplace",
+              "path": "/making-transfers/marketplace",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "making-transfers/purchasing",
+              "path": "/making-transfers/purchasing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "making-transfers/redeemandtransfer",
+              "path": "/making-transfers/redeemandtransfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "making-transfers/trading",
+              "path": "/making-transfers/trading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "roadmap",
+              "path": "/roadmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "team",
+              "path": "/team",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tearms",
+              "path": "/tearms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tokeconomics/nft-market",
+              "path": "/tokeconomics/nft-market",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tokeconomics/stablecoin",
+              "path": "/tokeconomics/stablecoin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tokeconomics/supply-governance",
+              "path": "/tokeconomics/supply-governance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tokeconomics/wrapping",
+              "path": "/tokeconomics/wrapping",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

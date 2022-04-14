@@ -1,0 +1,27 @@
+{
+  "unversionedId": "team",
+  "id": "team",
+  "title": "The Team",
+  "description": "Preencher com a bio dos membros da empresa.",
+  "source": "@site/docs/team.md",
+  "sourceDirName": ".",
+  "slug": "/team",
+  "permalink": "/team",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/team.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "The Team",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NFT Supply Governance Price Stability Mechanisms",
+    "permalink": "/tokeconomics/supply-governance"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/roadmap"
+  }
+}

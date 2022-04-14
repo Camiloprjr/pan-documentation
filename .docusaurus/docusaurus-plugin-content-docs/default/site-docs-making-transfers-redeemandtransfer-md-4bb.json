@@ -1,0 +1,27 @@
+{
+  "unversionedId": "making-transfers/redeemandtransfer",
+  "id": "making-transfers/redeemandtransfer",
+  "title": "Redeeming and transferring PAN tokens",
+  "description": "You can redeem your PAN tokens by exchanging them for your preferred fiat currency. For that, you must fill a form informing:",
+  "source": "@site/docs/making-transfers/redeemandtransfer.md",
+  "sourceDirName": "making-transfers",
+  "slug": "/making-transfers/redeemandtransfer",
+  "permalink": "/making-transfers/redeemandtransfer",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/making-transfers/redeemandtransfer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Redeeming and transferring PAN tokens",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Transaction fees",
+    "permalink": "/making-transfers/fees"
+  },
+  "next": {
+    "title": "Marketplace",
+    "permalink": "/making-transfers/marketplace"
+  }
+}
