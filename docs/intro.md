@@ -1,8 +1,12 @@
 ---
+title: PAN-X
 sidebar_position: 1
+slug: /
 ---
 
 # PAN
+
+>  Official PAN-X Whitepaper
 
 ## PAN-X
 
