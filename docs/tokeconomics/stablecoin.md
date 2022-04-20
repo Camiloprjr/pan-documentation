@@ -11,9 +11,3 @@ By its turn, a stablecoin is a class of cryptocurrency which aims to provide pri
 
 While the PAN-X platform gives full control over the operations to the game company, the PAN token is decentralized as it is a functionality based on the blockchain. When a PAN token is purchased, even if the PAN-X platform shuts down, the user will still own that balance. 
 
-:::note source
-
-1. https://www.business2community.com/nft-news/nft-market-size-how-to-track-02467120
-2. https://fortune.com/2022/03/10/bored-apes-cryptopunks-jolt-nft-market-to-billions-in-sales/#:~:text=According%20to%20Thursday%27s%20NonFungible.com,from%20%2482.5%20million%20in%202020 
-
-:::

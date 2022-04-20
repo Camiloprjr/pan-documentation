@@ -9,3 +9,4 @@ When doing the wrap mint, PAN’s system will show the availability of SCB that 
 
 When doing the unwrap burn, PAN’s system will show the availability of PAN tokens that can be “converted” into SCB. The burner selects the amount to be processed and chooses the transaction fee. Likewise, this process can only be carried out in case the backoffice wallet has a balance in MATIC. 
 
+![PAN](/img/colb.png)
